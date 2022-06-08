@@ -1,6 +1,6 @@
 <h1>Booki</h1>
 
-[Booki]. https://kamelzakiri.github.io/Booki/
+[Booki]  https://kamelzakiri.github.io/Booki/
 
 Booki est une entreprise proposant un outil de planification de vacances.
 Leur site permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
